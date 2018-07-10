@@ -1,0 +1,20 @@
+body{
+  background-color: #6bedf9;
+  background-image: url(face.png);
+  background-attachment: fixed;
+  background-size: 200px 200px;
+  background-position: center;
+  background-repeat: space;
+}
+.myheader{
+  background-color: #b7ffa3;
+  border-radius: 50px;
+  text-align: center;
+  text-shadow: 0px 0px 5px #16e53c ;
+}
+.title{
+  margin-top: 0px;
+  font-family: monospace;
+  color: #51c68b;
+  font-size: 30px;
+}
